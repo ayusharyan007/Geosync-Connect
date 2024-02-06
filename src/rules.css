@@ -1,0 +1,17 @@
+#rules{
+margin-top: 10px;
+}
+.content-rules{
+    margin-top: 25px;
+    margin-left: 50px;
+    font-size: large;
+}
+.header{
+    margin-bottom: 25px;
+    line-height: 30px;
+}
+.content-rules p{
+  margin-bottom: 10px;
+  font-family: 'Poppins', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+}

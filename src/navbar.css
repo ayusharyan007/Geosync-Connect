@@ -1,0 +1,32 @@
+#navbar{
+   
+    display: flex;
+}
+.logo{
+    margin-top: 1vh;
+    margin-left: 1vh;
+    width: 6vh;
+    height: 5vh;
+}
+.nav-left{
+    display: flex;
+}
+.l1{
+    margin-top: 1vh;
+    font-size: 20px;
+    margin-left: 2vh;
+}
+.user_icon{
+    margin-left: 10px;
+    margin-top: 1px;
+    font-size: 30px;
+    cursor: pointer;
+}
+.nav-right{
+    display: flex;
+    margin-left: 850px;
+}
+.nav-right li{
+    font-size: 20px;
+    margin-right: 25px;
+}
